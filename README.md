@@ -1,10 +1,11 @@
 # side-scroller-game-nora-neko-adventure
 
-side scroller game using java swift gui. 
+side scroller game using java swift gui, and other java packages. 
 
-made for a class project in my uni.
+made for a class project in my uni. as a result, all of the comments in these codes are in japanese.
 
 i am going to clean up the codes and make it more readable once i have the time.
+
 
 below is a japanese version of the user manual
 
