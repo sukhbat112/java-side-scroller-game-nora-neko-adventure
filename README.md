@@ -8,13 +8,13 @@ below is a japanese version of the user manual
 「野良猫にゃん吉」へようこそ！このマニュアルでは、ゲームの基本操作、目的、その他の情報について説明します。
 
 1.	ゲームの始め方：ゲームを開始するには、JavaファイルであるTitleControll.javaをjavacでコンパイルして実行します。ゲームを起動すると、タイトル画面（図1）が表示されます。
-   ## 図1
+ #### 図1
  ![Picture1](https://github.com/sukhbat112/java-side-scroller-game-nora-neko-adventure/assets/68054312/983e78ac-124c-4d81-8564-06113d6ff1a2)
 
 3.	タイトル画面：タイトル画面には、ゲームのタイトルと「はじめる」ボタンがあり、そのボタンを押すと次のコース選択画面が表示されます。
 
 4.	コース選択画面（図2）：難易度が異なる3個のコースが存在し、それぞれの難易度とスタートボタンを含んだコース一覧が表示されます。好きなコースを選び、スタートボタンを押して進んでください。
-   ## 図2
+   #### 図2
 ![Picture2](https://github.com/sukhbat112/java-side-scroller-game-nora-neko-adventure/assets/68054312/f2edb526-24f6-4042-9bc1-efebf97e8fdd)
 
 6.	操作方法：
@@ -22,7 +22,7 @@ below is a japanese version of the user manual
 移動：キャラクターを左右に移動するには、矢印キー（←、→）または「a」「d」キーを使用します。
 ジャンプ：キャラクターをジャンプさせるには、「w」キーまたは「j」キーを使います。
 図3操作方法
-## 図3
+#### 図3
 
 ![Picture3](https://github.com/sukhbat112/java-side-scroller-game-nora-neko-adventure/assets/68054312/c28fa576-14a6-4e2b-8e67-cbb8b6f69220)
 
@@ -37,7 +37,7 @@ below is a japanese version of the user manual
 
 10.	 コースオーバー：
 キャラクターがダメージブロック（図4）かゴール旗（図5）に接触すると、ゲームが終了します。ゲームオーバー画面からリトライするか（図6）ゲームクリア画面からコース選択画面（図7）に戻って、他のコースを楽しんだりすることもできます。
-
+#### 図4
 ![Picture4](https://github.com/sukhbat112/java-side-scroller-game-nora-neko-adventure/assets/68054312/4b4a4087-eb96-4b4a-ba30-3245f451d99d)
 
 ![Picture5](https://github.com/sukhbat112/java-side-scroller-game-nora-neko-adventure/assets/68054312/84fd18b8-daa9-424d-9f6c-4c7395039c5f)
